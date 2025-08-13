@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+**Courses:**
+* I am the head TA of the course CSE6140 Algorithm in 2021Fall.
+* I was the TA of the course CSE 8803 Machine learning in Computational Biology in 2021Spring.
+* I was the TA of CSE 6140 Algorithm in 2020Fall, and **was awarded *Thanks-a-teacher* award**!
+<img src = "../assets/img/ThankATeacher.png" width = 500>
