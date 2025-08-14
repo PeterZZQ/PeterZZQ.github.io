@@ -38,7 +38,8 @@ I'm a Ph.D. student in [the School of Computational Science and Engineering, Geo
 
 I'm generally interested in developing machine learning algorithms to study cell regulatory mechanisms. My main research focuses are:
 
-* Integrating biological information from single-cell multi-omics datasets and single-cell datasets across experimental conditions, and obtaining new biological insight from the integration study.
+* Integrating biological information from single-cell multi-omics datasets and single-cell datasets across experimental conditions and species, and obtaining new biological insight from the integration study.
+* Constructing single-cell foundation model from large-scale single-cell sequencing atlas, and learning cell representation for various downstream tasks including cell type annotation, data imputation, and perturbation prediction.
 * Studying cell regulatory mechanisms including gene regulatory network, cross-modalities association network with graph learning algorithms.
 
 **My contact information:**
