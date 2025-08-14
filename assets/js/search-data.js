@@ -23,12 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-our-abstract-learning-latent-embedding-of-multi-modal-single-cell-data-and-cross-modality-relationship-simultaneously-is-accepted-as-flashtalk-and-poster-in-cshl-2021-look-forward-to-see-you-there",
+        },{id: "news-our-abstract-learning-latent-embedding-of-multi-modal-single-cell-data-and-cross-modality-relationship-simultaneously-is-accepted-as-flashtalk-and-poster-in-cshl-2021-look-forward-to-see-you-there",
           title: 'Our abstract Learning latent embedding of multi-modal single cell data and cross-modality relationship...',
           description: "",
           section: "News",},{id: "news-our-paper-inference-of-high-resolution-trajectories-in-single-cell-rna-seq-data-by-using-rna-velocity-is-accepted-by-cell-report-methods-please-check-it-out-with-the-link",
