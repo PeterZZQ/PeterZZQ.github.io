@@ -14,7 +14,7 @@ nav_order: 6
 <img src = "../assets/img/ThankATeacher.png" width = 500>
 
 
-**Advisee**
+**Advisee:**
 * **Macrina M Lobo**: Ph.D. student, Sept 2024-Now
   **Project**: *SpaDecoder: Decoding Spatial Transcriptomes at Single Cell Resolution Leveraging Tissue Structure*
 * **Chandra Sekhar Reddy E**: Master student, Sept 2023-Now
