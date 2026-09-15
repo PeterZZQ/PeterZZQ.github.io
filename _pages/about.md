@@ -34,9 +34,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-I'm a Ph.D. student in [the School of Computational Science and Engineering, Georgia Institute of Technology](https://cse.gatech.edu). My advisor is [Dr. Xiuwei Zhang](https://xiuweizhang.wordpress.com).
+I'm an incoming assistant professor in [Cheriton School of Computer Science, University of Waterloo](https://uwaterloo.ca/bioinformatics-group/contacts/ziqi-zhang), and a faculty affliate in [Vector Institute of Canada](https://vectorinstitute.ai/). Before that, I did my Ph.D. in [the School of Computational Science and Engineering, Georgia Institute of Technology](https://cse.gatech.edu). My advisor is [Dr. Xiuwei Zhang](https://xiuweizhang.wordpress.com).
 
-I’m generally interested in developing machine learning algorithms to study cell mechanisms through high-throughput multi-modal biological data. My main research focuses are:
+I'm generally interested in developing machine learning algorithms to study cell mechanisms through high-throughput multi-modal biological data. My main research focuses are:
 
 * Knowledge transfer and data imputation across modalities, including sequencing omics, perturbation conditions, and species, from single-cell multi-omics data and spatial transcriptomic data. 
     
@@ -46,8 +46,7 @@ I’m generally interested in developing machine learning algorithms to study ce
 
 **My contact information:**
 
-* **Email**: ziqi.zhang@gatech.edu
-* **Address**: CODA Building, IDEaS, Georgia Tech
+* **Email**: zzhang97@uwaterloo.ca; ziqi.zhang@gatech.edu
 <!-- * **Phone**: (+1)-404-200-1709 -->
 <!-- * **Twitter**: [@Ziqi_Peter](https://twitter.com/Ziqi_Peter) -->
 
