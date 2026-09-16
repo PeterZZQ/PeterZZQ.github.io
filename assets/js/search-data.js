@@ -47,6 +47,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-scmultisim-simulation-of-single-cell-multi-omics-and-spatial-data-guided-by-gene-regulatory-networks-and-cell-cell-interactions-is-accepted-by-nature-methods-please-check-it-out-with-the-link",
           title: 'Our paper scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene...',
           description: "",
+          section: "News",},{id: "news-i-will-join-cheriton-school-of-computer-science-at-the-university-of-waterloo-as-an-assistant-professor-in-2027-please-contact-me-if-you-are-interested-in-working-in-my-group",
+          title: 'I will join Cheriton School of Computer Science at the University of Waterloo...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
